@@ -1,0 +1,11 @@
+name,cuisine,dishes,google_rating,num_reviews,price_range
+Sichuan Palace,Chinese,mapo tofu|dan dan noodles|kung pao chicken,4.2,320,$$
+Pho Saigon,Vietnamese,pho|banh mi|spring rolls,4.5,210,$$
+Tokyo Ramen,Japanese,ramen|gyoza|takoyaki,4.1,180,$
+Mama's Dumplings,Chinese,dumplings|scallion pancakes|wonton soup,4.6,95,$
+Curry House,Indian,butter chicken|biryani|samosa,4.3,410,$$
+Banh Mi Bros,Vietnamese,banh mi|Vietnamese coffee|pho,4.4,150,$
+Izakaya Nights,Japanese,yakitori|ramen|sashimi,4.0,260,$$$
+Spice Route,Thai,pad thai|green curry|som tum,4.2,300,$$
+Seoul Kitchen,Korean,bibimbap|tteokbokki|Korean fried chicken,4.7,88,$$
+Himalayan Bites,Nepali,momo|dal bhat|thukpa,4.8,42,$
